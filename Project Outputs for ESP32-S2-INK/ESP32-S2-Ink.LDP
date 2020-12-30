@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Documents\Personal Projects\ESP32-S2-INK\ESP32-S2-Ink.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32-s2-ink-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32-s2-ink-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

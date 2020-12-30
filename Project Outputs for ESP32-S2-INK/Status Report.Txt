@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32-S2-INK.PrjPcb]
+   Generated File[ESP32-S2-Ink-RoundHoles.TXT]
+   Generated File[ESP32-S2-Ink-SlotHoles.TXT]
+   Generated File[ESP32-S2-Ink.LDP]
+   Generated File[ESP32-S2-Ink.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:56:37 PM On 12/27/2020

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32-S2-Ink.PcbDoc   12/27/2020  11:56:37 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : ESP32-S2-Ink-RoundHoles.TXT
+ASCII SlotHoles File : ESP32-S2-Ink-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             89        PTH        0.00inch (0.00mm)
+T2      10mil (0.25mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             28        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              137
+
+Total Processing Time (hh:mm:ss) : 00:00:00
